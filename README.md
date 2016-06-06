@@ -1,5 +1,5 @@
 # Kohai-Chess
-UCI Chess Engine, a derivative Senpai 1.0 
+UCI Chess Engine, a derivative of Senpai 1.0 
 
 Kōhai 1.0 Copyright (C) 2016 by Fabien Letouzey and Michael Byrne.
 
