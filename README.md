@@ -11,18 +11,6 @@ I thank Fabien for all of his contributions to chess programming - from his orig
 
 I encourage others to make contributions to Kōhai as it will be posted Github.  One area of interest, would be to add SYZYGY tablebase endgame support. 
 
-Rank Name                    Elo    +    - games score oppo. draws 
-   1 Gull 3.1 x64           3242   10   10  2700   71%  3084   29% 
-   2 Kōhai 1.0              3158   10   10  2700   59%  3094   35% Note: RELEASE VERSION
-   3 Kōhai 1.1              3154   10   10  2700   58%  3094   35% Note: BETA version used in final testing. 
-   4 Hakkapeliitta TCEC v2  3153   10   10  2700   58%  3094   27% 
-   5 Senpai 1.0             3146   10   10  2700   57%  3095   34% 
-   6 Texel 1.05 64-bit      3104   10   10  2700   50%  3100   28% 
-   7 Crafty-25.1-syzygy     3058   10   10  2700   44%  3105   28% 
-   8 Deep HIARCS 14 WCSC    3052   10   10  2700   43%  3105   28% 
-   9 Deep Shredder 12 x64   2981   10   10  2700   32%  3113   28% 
-  10 Arasan 19.0            2954   10   10  2700   29%  3116   25% 
-
 This program is distributed under the GNU General Public License version 3.
 See LICENSE for more details.
 
